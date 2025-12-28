@@ -9,4 +9,4 @@ dependencies = [
 ]
 
 [project.scripts]
-create-report = "generate_report:main"
+create-report = "github_metrics.main:main"
